@@ -32,7 +32,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il modello di input per l&apos;algoritmo.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
@@ -52,42 +52,42 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="104"/>
         <source>If checked, take screen shots for tutorials. Use Save Data to write them to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se l&apos;opzione è contrassegnata, cattura delle immagini dello schermo per i tutorial. Usa &quot;salva dati&quot; per scriverle sul disco.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="115"/>
         <source>Set scale factor for the screen shots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definisci il fattore di scala per i screenshot.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="122"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui l&apos;algoritmo.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="130"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Prodotto</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="135"/>
         <source>Mean distance after registration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Distanza media dopo la registrazione: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="142"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzato</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="155"/>
         <source>Transform type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di trasformazione: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="163"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di iterazioni:</translation>
     </message>
 </context>
 <context>
@@ -105,12 +105,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
         <source>Set the Plus Server Host and Name Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Definisci l&apos;Host del Plus Server e il Nome del Port:</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="96"/>
         <source>Select Configuration: </source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona Configurazione: </translation>
     </message>
 </context>
 <context>
@@ -118,22 +118,22 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="165"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="189"/>
         <source>Select connector node</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il nodo connettore</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="190"/>
         <source>OpenIGTLink connector: </source>
-        <translation type="unfinished"></translation>
+        <translation>Connettore OpenIGTLink: </translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="193"/>
         <source>Show 3D Slicer user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;interfaccia utente del 3D Slicer</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
@@ -159,62 +159,62 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>GuideletLib.UltraSound</name>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
         <source>Ultrasound</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
         <source>Start Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="61"/>
         <source>If clicked, start recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="63"/>
         <source>Freeze</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
         <source>Brightness </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
         <source>Bright</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
         <source>Brighter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="246"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="260"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="262"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -279,12 +279,12 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="104"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esegui l&apos;algoritmo.</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="112"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prodotto</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="117"/>
@@ -294,12 +294,12 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="124"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avanzato</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="145"/>
         <source>Number of iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numero di iterazioni:</translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="270"/>
@@ -373,21 +373,38 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="TextureModel/TextureModel.py" line="68"/>
+        <source>Model:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="80"/>
+        <source>Color image containing texture image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="81"/>
+        <source>Texture:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="84"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <comment>uchar-vector</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <comment>float-vector</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <comment>float-components</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -396,18 +413,13 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="TextureModel/TextureModel.py" line="92"/>
+        <source>Save color information as point data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="TextureModel/TextureModel.py" line="298"/>
-        <source>Finished with download and loading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="TextureModel/TextureModel.py" line="305"/>
-        <source>Test passed!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -860,6 +872,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
+        <source>Breach Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCollectPointsModule</name>
@@ -971,7 +988,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avanzato</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
@@ -1036,6 +1053,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModule.cxx" line="80"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
+        <source>Collect Points</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1200,6 +1222,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
+        <source>Create Models</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerFiducialRegistrationWizardModule</name>
@@ -1325,6 +1352,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
+        <source>Fiducial Registration Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerFiducialRegistrationWizardModuleWidget</name>
@@ -1393,6 +1425,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
+        <source>Landmark Detection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1506,6 +1543,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
+        <source>Path Explorer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1718,7 +1760,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="408"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impostazioni</translation>
     </message>
     <message>
         <location filename="PivotCalibration/Resources/UI/qSlicerPivotCalibrationModule.ui" line="417"/>
@@ -1928,6 +1970,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
+        <source>Pivot Calibration</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2365,6 +2412,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
+        <source>Transform Processor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerTransformProcessorModuleWidget</name>
@@ -2470,6 +2522,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
+        <source>Ultrasound Snapshots</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2791,6 +2848,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>Sequences</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.h" line="49"/>
+        <source>Volume Reconstruction</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumeReconstructionModuleWidget</name>
@@ -2902,6 +2964,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
+        <source>Volume Reslice Driver</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerWatchdogModule</name>
@@ -2913,6 +2980,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
+        <source>Watchdog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3074,6 +3146,95 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkSlicerFiducialRegistrationWizardLogic</name>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
+        <source>&apos;From&apos; fiducial list is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
+        <source>&apos;To&apos; fiducial list is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
+        <source>Output transform is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
+        <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
+        <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
+        <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
+        <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
+        <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
+        <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
+        <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
+        <source>Unrecognized point matching method: %1. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
+        <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
+        <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
+        <source>Warping transform cannot be stored
+in linear transform node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
+        <source>Invalid transform type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
+        <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
+        <source>Registration Complete. RMS Error: %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

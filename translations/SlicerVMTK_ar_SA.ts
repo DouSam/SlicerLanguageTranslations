@@ -31,32 +31,32 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <translation>عرض ثلاثي الأبعاد على النجاح</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="182"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="183"/>
         <source>Failed to compute results.</source>
         <translation>فشل في حساب النتائج.</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="219"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="220"/>
         <source>Input segmentation, volume or segment ID is invalid</source>
         <translation>تجزئة المدخلات أو الحجم أو معرف القطاع غير صالح</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="223"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="224"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="300"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="301"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>اكتملت المعالجة في {مدة} ثانية</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="321"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="323"/>
         <source>Starting the test</source>
         <translation>بدء الاختبار</translation>
     </message>
     <message>
-        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="323"/>
+        <location filename="ArterialCalcificationPreProcessor/ArterialCalcificationPreProcessor.py" line="325"/>
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
     </message>
@@ -397,302 +397,312 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="103"/>
         <source>Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>مناطق</translation>
     </message>
     <message>
         <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="104"/>
         <source>Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>إحداثيات</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="354"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1051"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="392"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1076"/>
         <source>Input is invalid.</source>
         <translation>المدخلات غير صالحة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="442"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="485"/>
         <source>N/A (input lumen surface not specified)</source>
         <translation>N/A (سطح تجويف الإدخال غير محدد)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="461"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="504"/>
         <source> (MIS diameter {sign}</source>
         <translation> (الحد الأقصى لقطر الكرة المنقوش {sign}</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="611"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="655"/>
         <source>Selected Shape node is not a Tube.</source>
         <translation>عقدة الشكل المختارة ليست أنبوب.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="617"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="661"/>
         <source>Selected model node does not have radius information.</source>
         <translation>عقدة نموذجية مختارة ليس لديها معلومات نصف القطر.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="637"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="681"/>
         <source>MIS diameter</source>
         <translation>الحد الأقصى لقطر الكرة المنقوش</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="639"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="683"/>
         <source>CE diameter</source>
         <translation>قطر مكافئ دائري</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="640"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1813"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="684"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1781"/>
         <source>Cross-section area</source>
         <translation>منطقة المقطع العرضي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="642"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1814"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="686"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1782"/>
         <source>Wall diameter</source>
         <translation>قطر الحائط</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="643"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1815"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="687"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1783"/>
         <source>Wall cross-section area</source>
         <translation>منطقة المقطع العرضي الحائطي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="645"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1818"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="689"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1786"/>
         <source>Stenosis by diameter (CE)</source>
         <translation>التضيق حسب القطر (CE)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="646"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1816"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="690"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1784"/>
         <source>Stenosis by surface area</source>
         <translation>التضيق حسب مساحة السطح</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="764"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="801"/>
         <source>Collection of lumen regions is unexpectedly None.</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة مناطق التجويف غير متوقعة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="769"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="806"/>
         <source>Requested region is beyond range.</source>
-        <translation type="unfinished"></translation>
+        <translation>المنطقة المطلوبة خارج النطاق.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="777"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="814"/>
         <source> points</source>
-        <translation type="unfinished"></translation>
+        <translation> نقاط</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="780"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="817"/>
         <source> cells</source>
-        <translation type="unfinished"></translation>
+        <translation> خلايا</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="800"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="837"/>
         <source>Could not prepare the segment editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم أتمكن من إعداد محرر المقطع.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="972"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="997"/>
         <source>Invalid surface polydata.</source>
-        <translation type="unfinished"></translation>
+        <translation>بيانات متعددة السطح غير صالحة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1054"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1079"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1060"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1085"/>
         <source>Processing completed</source>
         <translation>اكتمال التجهيز</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1199"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1218"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1223"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1242"/>
         <source>Waiting for background jobs...</source>
         <translation>في انتظار وظائف الخلفية...</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1228"/>
-        <source>Updating table :</source>
-        <translation>جدول التحديث:</translation>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1252"/>
+        <source>Updating table:</source>
+        <translation>تحديث الجدول:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1267"/>
+        <source>Updating table :</source>
+        <translation type="vanished">جدول التحديث:</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1291"/>
         <source>Processing completed in {duration} seconds - {countOfPoints} points</source>
         <translation>تم الانتهاء من المعالجة في {duration} ثانية - {CountOfPoints} نقاط</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1332"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1334"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1338"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1349"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1351"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1355"/>
         <source>Diameter ({unitOfLength})</source>
         <translation>القطر ({UnitOfLength})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1336"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1340"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1353"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1357"/>
         <source>Area ({unitOfArea})</source>
         <translation>المنطقة ({unitOfArea})</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1342"/>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1344"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1359"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1361"/>
         <source>Stenosis (%)</source>
         <translation>التضيق (%)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1523"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1540"/>
         <source>Lumen surface node is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين عقدة سطح Lumen.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1568"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1585"/>
         <source>Could not cut segment. Is it visible in 3D view?</source>
         <translation>لا يمكن قطع المقطع. هل هو مرئي في عرض ثلاثي الأبعاد ؟</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1571"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1588"/>
         <source>Not enough points to create surface</source>
         <translation>لا توجد نقاط كافية لإنشاء سطح</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1605"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1622"/>
         <source>Cross section: </source>
         <translation>المقطع العرضي: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1627"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1644"/>
         <source>Maximum inscribed sphere radius is not available</source>
         <translation>لا يتوفر الحد الأقصى لنصف قطر الكرة المنقوش</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1742"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1711"/>
         <source>Maximum inscribed sphere: </source>
         <translation>أقصى كرة منقوشة: </translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1810"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1778"/>
         <source>Distance</source>
         <translation>مسافة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1811"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1779"/>
         <source>Diameter (MIS)</source>
         <translation>القطر (MIS)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1812"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1073"/>
+        <location filename="CrossSectionAnalysis/CrossSectionAnalysis.py" line="1780"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1125"/>
         <source>Diameter (CE)</source>
         <translation>القطر (CE)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="35"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="78"/>
         <source>Parameters</source>
         <translation>معلمات</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="41"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="84"/>
         <source>Centerline source:</source>
         <translation>المصدر المركزي:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="48"/>
-        <source>The centerline source may be :
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="91"/>
+        <source>The centerline source may be:
 
 - a centerline curve created by &apos;Extract centerline&apos; module,
 - a centerline model created by &apos;Extract centerline&apos; module,
 - an arbitrary open markups curve,
 - an invisible centerline of a shape markups node used as a tube.</source>
-        <translation>قد يكون مصدر الخط المركزي:
+        <oldsource>The centerline source may be :
 
-- منحنى خط الوسط الذي تم إنشاؤه بواسطة وحدة «خط الوسط المستخرج»،
-- نموذج محوري تم إنشاؤه بواسطة وحدة «خط الوسط المستخرج»،
-- منحنى التسويق المفتوح التعسفي،
-- خط مركزي غير مرئي لشكل يرمز العقدة المستخدمة كأنبوب.</translation>
+- a centerline curve created by &apos;Extract centerline&apos; module,
+- a centerline model created by &apos;Extract centerline&apos; module,
+- an arbitrary open markups curve,
+- an invisible centerline of a shape markups node used as a tube.</oldsource>
+        <translation>قد يكون مصدر خط المركز:
+
+- منحنى خط المركز الذي تم إنشاؤه بواسطة وحدة &quot;استخراج خط المركز&quot;.
+- نموذج خط المركز الذي تم إنشاؤه بواسطة وحدة &quot;استخراج خط المركز&quot;.
+- منحنى علامات مفتوح عشوائي.
+- خط مركز غير مرئي لعنصر علامات الشكل المستخدم كأنبوب.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="88"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="131"/>
         <source>Input lumen surface:</source>
         <translation>سطح تجويف المدخلات:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="97"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="140"/>
         <source>Input segmentation or model node, required for computing cross-sectional area.
 The input centerline is expected to be inside the lumen surface.</source>
         <translation>تجزئة المدخلات أو العقدة النموذجية، المطلوبة لحساب المنطقة المقطعية.
 من المتوقع أن يكون خط وسط الإدخال داخل سطح التجويف.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="126"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="172"/>
         <source>Select an input segment node</source>
         <translation>حدد عقدة قطاع الإدخال</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="141"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="187"/>
         <source>Output table:</source>
         <translation>جدول المخرجات:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="150"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="196"/>
         <source>Pick the output table to the algorithm.</source>
         <translation>اختر جدول الإخراج إلى الخوارزمية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="177"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="226"/>
         <source>Toggle between the table layout and the previous one.</source>
         <translation>قم بالتبديل بين تخطيط الجدول والتخطيط السابق.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="180"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="232"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="939"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1002"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="284"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="991"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1054"/>
         <source>show</source>
         <translation>عرض</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="189"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="238"/>
         <source>Output plot series:</source>
         <translation>سلسلة حبكة الإخراج:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="198"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="247"/>
         <source>Pick the output plot series to the algorithm.</source>
         <translation>اختر سلسلة حبكة الإخراج إلى الخوارزمية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="216"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="268"/>
         <source>Select the plot&apos;s Y axis</source>
         <translation>حدد محور Y الخاص بالحبكة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="229"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="281"/>
         <source>Toggle between the plot layout and the previous one.</source>
         <translation>قم بالتبديل بين تخطيط الحبكة والتخطيط السابق.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="247"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="299"/>
         <source>Tools / Options</source>
-        <translation type="unfinished"></translation>
+        <translation>الأدوات/الخيارات</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="287"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="339"/>
         <source>Manage connected regions of the lumen surface.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة المناطق المتصلة من سطح التجويف.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="290"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="342"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة التبويب 1</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="298"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="350"/>
         <source>Get the number of distinct connected regions in the lumen surface.
 
 Ideally, there should be only one region. More regions may indicate the presence of holes in the lumen and/or distinct regions outside of the lumen. Holes in the lumen mean inaccurate cross-section area measurement.
@@ -700,59 +710,69 @@ Ideally, there should be only one region. More regions may indicate the presence
 When unwanted regions have been fixed, typically using the &apos;Paint&apos; effect of the &apos;Segment editor&apos;, this function may be executed again.
 
 After a complete repair of the lumen surface, the centerlines must be extracted again so that the &apos;Maximum inscribed sphere&apos; radius arrays get updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>احصل على عدد المناطق المتصلة المتميزة في سطح lumen.
+
+من المثالي أن يكون هناك منطقة واحدة فقط. قد تشير المزيد من المناطق إلى وجود ثقوب في lumen و/أو مناطق متميزة خارج lumen. الثقوب في lumen تعني قياس غير دقيق لسطح المقطع العرضي.
+
+عند إصلاح المناطق غير المرغوب فيها، عمومًا باستخدام تأثير &quot;الطلاء&quot; في &quot;محرر المقطع&quot;، يمكن تنفيذ هذه الوظيفة مرة أخرى.
+
+بعد الإصلاح الكامل لسطح lumen، يجب استخراج خطوط المركز مرة أخرى حتى يتم تحديث مصفوفات نصف قطر &quot;الكرة المنقوشة القصوى&quot;.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="307"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="359"/>
         <source>Get:</source>
-        <translation type="unfinished"></translation>
+        <translation>احصل على:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="322"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
         <source>Cycle through the identified distinct regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بالتبديل بين المناطق المميزة المحددة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="344"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="396"/>
         <source>Indicates the size of the selected region. Low values suggest a parasite region.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشير إلى حجم المنطقة المحددة. القيم المنخفضة تشير إلى منطقة طفيلي.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="354"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="406"/>
         <source>If toggled, the selected region is centred in all slice views, except in the ideal case where there is one single region.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التبديل، ستتمركز المنطقة المحددة في جميع طرق العرض المقطعية، باستثناء الحالة المثالية حيث توجد منطقة واحدة فقط.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="367"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="419"/>
         <source>Activate the &apos;Paint&apos; effect of the &apos;Segment editor&apos;.
 
 This is available if the lumen surface is a segmentation.
 
 The &apos;Sphere&apos; brush is enforced. Further customisation can be performed in the &apos;Segment editor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتنشيط تأثير &quot;الطلاء&quot; في &quot;محرر المقطع&quot;.
+
+هذا متاح إذا كانت سطح lumen هو قطع.
+
+تم فرض فرشاة &quot;الكرة&quot;. يمكن إجراء المزيد من التخصيص في &quot;محرر المقطع&quot;.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="374"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="426"/>
         <source>paint</source>
-        <translation type="unfinished"></translation>
+        <translation>طلاء</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="389"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="441"/>
         <source>Specify how to output point coordinates of the centerline.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد كيفية إخراج إحداثيات النقاط لخط المركز.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="392"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="444"/>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة التبويب 2</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="472"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="524"/>
         <source>Run the algorithm.</source>
         <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="475"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="527"/>
         <source>Apply</source>
         <translation>تطبيق</translation>
     </message>
@@ -761,138 +781,152 @@ The &apos;Sphere&apos; brush is enforced. Further customisation can be performed
         <translation type="vanished">خيارات الجدول</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="403"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="455"/>
         <source>Coordinate system:</source>
         <translation>نظام التنسيق:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="443"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="495"/>
         <source>Split coordinates:</source>
         <translation>إحداثيات مقسمة:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="450"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="502"/>
         <source>Split coordinate system values into three separate table columns.</source>
         <translation>قيم نظام الإحداثيات المقسمة إلى ثلاثة أعمدة جدول منفصلة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="412"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="464"/>
         <source>Right-Anterior-Superior coordinate system. Used in the Slicer scene.</source>
         <translation>نظام الإحداثيات الأمامي العلوي الأيمن. مستخدم في مشهد Slicer.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="415"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="467"/>
         <source>RAS (Slicer convention)</source>
         <translation>التفوق الأمامي الأيمن (اتفاقية Slicer)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="425"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="477"/>
         <source>Left-Posterior-Superior coordinate system. Used commonly in files.</source>
         <translation>نظام الإحداثيات الخلفي العلوي الأيسر. تستخدم عادة في الملفات.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="428"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="480"/>
         <source>LPS (DICOM convention)</source>
         <translation>المتفوق الخلفي الأيسر (اتفاقية DICOM)</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="491"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="543"/>
         <source>Browse cross-sections</source>
         <translation>تصفح المقاطع العرضية</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="508"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="560"/>
         <source>Point index:</source>
         <translation>مؤشر النقطة:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="515"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="567"/>
         <source>Point of the centerline where the selected slice view should be moved</source>
         <translation>نقطة خط الوسط حيث يجب نقل عرض الشريحة المختارة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="531"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="583"/>
         <source>Move slice view:</source>
         <translation>حرك عرض الشريحة:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="540"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="631"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="592"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="683"/>
         <source>Move this slice view to a point along the centerline</source>
         <translation>انقل هذه الشريحة إلى نقطة على طول الخط المركزي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="564"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="616"/>
         <source>Center the selected point in the slice view</source>
         <translation>مركز النقطة المختارة في عرض الشريحة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="567"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="619"/>
         <source>centered</source>
         <translation>تركزت</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="580"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="632"/>
         <source>Orient the slice view orthogonal to the centerline</source>
         <translation>قم بتوجيه عرض الشريحة المتعامد إلى الخط المركزي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="583"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="635"/>
         <source>orthogonal</source>
         <translation>متعامد</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="596"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="701"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="648"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="753"/>
         <source>Axial:</source>
         <translation>محوري:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="711"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="746"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="763"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="798"/>
         <source>Rotate slice view around its Z-axis to restore anatomic orientation</source>
         <translation>قم بتدوير عرض الشريحة حول محور Z لاستعادة الاتجاه التشريحي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="624"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="729"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="764"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="676"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="781"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="816"/>
         <source> deg</source>
         <translation> deg</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="606"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="28"/>
+        <source>Parameter set:</source>
+        <translation>مجموعة المعلمات:</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="38"/>
+        <source>Pick a node to store the parameter set.
+
+This is intended to represent a unique combination of input centerline and surface nodes. Create a distinct parameter set for each combination.</source>
+        <translation>اختر عقدة لتخزين مجموعة المعلمات.
+
+هذا يهدف إلى تمثيل مجموعة فريدة من عقد مركز الإدخال وعقد السطح. أنشئ مجموعة معلمات مميزة لكل مجموعة.</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
         <source>Rotation angle for longitudinal slice view</source>
         <translation>زاوية الدوران لعرض الشريحة الطولية</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="658"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="710"/>
         <source>Rotate:</source>
         <translation>تدوير:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="665"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="717"/>
         <source>Longitudinal</source>
         <translation>طولية</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="668"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="736"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="720"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="788"/>
         <source>Long.:</source>
         <translation>طويل.:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="677"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="729"/>
         <source>Spin / Flip</source>
         <translation>تدور/تقلب</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="771"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="823"/>
         <source>Flip:</source>
         <translation>انقلب</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="780"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="832"/>
         <source>Flip the slice view horizontally.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -901,12 +935,12 @@ Concerns orthogonal reformat in axial navigation.</source>
 يتعلق بالإصلاح المتعامد في الملاحة المحورية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="785"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="837"/>
         <source>Horizontal</source>
         <translation>أفقي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="792"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="844"/>
         <source>Flip the slice view vertically.
 
 Concerns orthogonal reformat in axial navigation.</source>
@@ -915,175 +949,187 @@ Concerns orthogonal reformat in axial navigation.</source>
 يتعلق بالإصلاح المتعامد في الملاحة المحورية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="797"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="849"/>
         <source>Vertical</source>
         <translation>عمودي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="812"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="864"/>
         <source>Distance from origin:</source>
         <translation>المسافة من المنشأ:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="821"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="873"/>
         <source>Cumulative distance from start of centerline</source>
         <translation>المسافة التراكمية من بداية الخط المركزي</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="834"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="886"/>
         <source>Set the current point as origin</source>
         <translation>حدد النقطة الحالية كأصل</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="837"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="889"/>
         <source>set</source>
         <translation>تعيين</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="847"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="899"/>
         <source>Go to origin point</source>
         <translation>اذهب إلى نقطة الأصل</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="357"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="850"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="409"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="902"/>
         <source>go to</source>
         <translation>اذهب الى</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="865"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="917"/>
         <source>Coordinates:</source>
         <translation>إحداثيات:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="872"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="924"/>
         <source>RAS coordinate of selected point</source>
         <translation>الإحداثيات الأمامية العليا اليمنى للنقطة المختارة</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="903"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="955"/>
         <source>Maximum inscribed sphere (MIS) diameter at selected point.</source>
         <translation>الحد الأقصى لقطر الكرة المنقوشة (MIS) عند نقطة محددة.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="916"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="968"/>
         <source>Jump to the smallest MIS diameter point.</source>
         <translation>اقفز إلى أصغر نقطة قطر كرة منقوشة كحد أقصى.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="919"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="976"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="971"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1028"/>
         <source>min</source>
         <translation>الحد الأدنى</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="926"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="978"/>
         <source>Jump to the largest MIS diameter point.</source>
         <translation>اقفز إلى أكبر نقطة قطر كرة منقوشة كحد أقصى.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="929"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="989"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1174"/>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1214"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="981"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1041"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1226"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1266"/>
         <source>max</source>
         <translation>الحد الأقصى</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="936"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="988"/>
         <source>Show the maximum inscribed sphere diameter.</source>
         <translation>أظهر أقصى قطر كرة منقوش.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="894"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="946"/>
         <source>Diameter (MIS):</source>
         <translation>القطر (أقصى كرة منقوشة):</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="960"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1012"/>
         <source>Area of the cross-section</source>
         <translation>مجال المقطع العريض</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="973"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1025"/>
         <source>Jump to the smallest cross-section area point.</source>
         <translation>اقفز إلى أصغر نقطة منطقة عرضية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="986"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1038"/>
         <source>Jump to the largest cross-section area point.</source>
         <translation>اقفز إلى أكبر نقطة منطقة عرضية.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="999"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1051"/>
         <source>Show cross-section at current point. Requires input lumen surface.</source>
         <translation>أظهر المقطع العرضي في النقطة الحالية. يتطلب مدخلات سطح التجويف.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="951"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1003"/>
         <source>Cross-section area:</source>
         <translation>المساحة العابرة:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1021"/>
         <source>Circular equivalent (CE) diameter: that of a circle having the  surface area of the cross-section.
 
 The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
 
 Caution: values at bifurcations may not have clinical meaning.</source>
-        <translation>قطر المعادل الدائري: قطر الدائرة التي لها مساحة سطح المقطع العرضي.
+        <translation type="vanished">قطر المعادل الدائري: قطر الدائرة التي لها مساحة سطح المقطع العرضي.
 
 كما يتم توفير الفرق المطلق و في المائة مع الحد الأقصى لقطر الكرة المنقوشة (MIS).
 
 الحذر: قد لا يكون للقيم عند التشعبات معنى سريري.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1014"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1066"/>
         <source>Diameter (CE):</source>
         <translation>القطر (المكافئ الدائري):</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1045"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1097"/>
         <source>Angles are in Slicer&apos;s coordinate system</source>
         <translation>الزوايا في نظام إحداثيات Slicer</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1038"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1090"/>
         <source>Orientation:</source>
         <translation>التوجه:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1070"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1073"/>
+        <source>Circular equivalent (CE) diameter: that of a circle having the surface area of the cross-section.
+
+The absolute and percent difference with the maximum inscribed sphere (MIS) diameter are also provided.
+
+Caution: values at bifurcations may not have clinical meaning.</source>
+        <translation>قطر الدائرة المكافئة (CE): هو قطر دائرة لها مساحة سطح المقطع العرضي.
+
+يتم أيضًا تقديم الفرق المطلق والنسبة المئوية مع قطر الكرة المنقوشة العظمى (MIS).
+
+تحذير: قد لا تكون القيم عند التفرعات لها معنى سريري.</translation>
+    </message>
+    <message>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1122"/>
         <source>Circular equivalent diameter, derived from the surface area.</source>
         <translation>قطر مكافئ دائري، مشتق من مساحة السطح.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1087"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1139"/>
         <source>Surface area</source>
         <translation>مساحة سطح</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1107"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1159"/>
         <source>Lumen:</source>
         <translation>تجويف:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1123"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1175"/>
         <source>Wall:</source>
         <translation>الجدار:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1139"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1191"/>
         <source>Stenosis:</source>
         <translation>التضيق:</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1171"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1223"/>
         <source>Jump to the maximum stenosis point by CE diameter.</source>
         <translation>اقفز إلى أقصى نقطة تضيق بواسطة قطر مكافئ دائري.</translation>
     </message>
     <message>
-        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1211"/>
+        <location filename="CrossSectionAnalysis/Resources/UI/CrossSectionAnalysis.ui" line="1263"/>
         <source>Jump to the maximum stenosis point by surface area.</source>
         <translation>اقفز إلى أقصى نقطة تضيق حسب مساحة السطح.</translation>
     </message>
@@ -1240,368 +1286,299 @@ Caution: values at bifurcations may not have clinical meaning.</source>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="14"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="14"/>
         <source>Sampling distance used for generating centerline curve</source>
         <translation>مسافة أخذ العينات المستخدمة لتوليد منحنى خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="20"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="20"/>
         <source>Inputs</source>
         <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="26"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="26"/>
         <source>Surface:</source>
         <translation>سطح:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="33"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="33"/>
         <source>Input surface model of the tree. If computation is slow adjust preprocessing parameters in advanced section.</source>
         <translation>نموذج سطح المدخل للشجرة. إذا كان الحساب بطيئًا، اضبط معلمات المعالجة المسبقة في القسم المتقدم.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="54"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="54"/>
         <source>Select a model or segmentation node</source>
         <translation>حدد نموذج أو عقدة تجزئة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="61"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="61"/>
         <source>Endpoints:</source>
         <translation>نقاط النهاية:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="70"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="70"/>
         <source>Branch endpoints. &quot;Unselected&quot; control points are used as sources, &quot;selected&quot; control points are used as targets.</source>
         <translation>نقاط نهاية الفرع. تُستخدم نقاط التحكم &quot;غير المحدد&quot; كمصادر، وتُستخدم نقاط التحكم &quot;المحدد&quot; كأهداف.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="81"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="81"/>
         <source>Endpoints</source>
         <translation>نقاط النهاية</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="106"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="106"/>
         <source>Auto-detect</source>
         <translation>اكتشاف تلقائي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="125"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="125"/>
         <source>Paremeter set: </source>
         <translation>مجموعة المعلمات: </translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="132"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="132"/>
         <source>Pick node to store parameter set</source>
         <translation>اختر العقدة لتخزين مجموعة المعلمات</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="143"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="143"/>
         <source>ExtractCenterline</source>
         <translation>استخراج خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="166"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="166"/>
         <source>Outputs</source>
         <translation>مخرجات</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="172"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="172"/>
         <source>Network</source>
         <translation>شبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="178"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="178"/>
         <source>Network model:</source>
         <translation>نموذج الشبكة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="185"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="185"/>
         <source>Result of quick centerline network extraction.</source>
         <translation>نتيجة سرعة استخراج الشبكة المركزية.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="196"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="196"/>
         <source>Network model</source>
         <translation>نموذج شبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="218"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="218"/>
         <source>Network properties:</source>
         <translation>خصائص الشبكة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="225"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="394"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="225"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="394"/>
         <source>Table containing quantitative analysis of centerline (radius, length, curvature, torsion, etc.)</source>
         <translation>جدول يحتوي على تحليل كمي للخط المركزي (نصف القطر والطول والانحناء والالتواء وما إلى ذلك)</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="236"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="236"/>
         <source>Network properties</source>
         <translation>خصائص شبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="258"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="258"/>
         <source>Network curve:</source>
         <translation>منحنى الشبكة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="265"/>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="354"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="265"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="354"/>
         <source>Centerline extraction result as a hierarchy of markups curves.</source>
         <translation>نتيجة استخراج الخط المركزي كتسلسل هرمي لمنحنيات الترميز.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="276"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="276"/>
         <source>Network curve</source>
         <translation>منحنى الشبكة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="301"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="301"/>
         <source>Tree</source>
         <translation>شجرة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="307"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="307"/>
         <source>Centerline model:</source>
         <translation>نموذج خط الوسط:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="314"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="314"/>
         <source>Centerline extraction result as a model.</source>
         <translation>نتيجة استخراج الخط المركزي كنموذج.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="325"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="325"/>
         <source>Centerline model</source>
         <translation>نموذج خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="347"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="347"/>
         <source>Centerline curve:</source>
         <translation>منحنى خط الوسط:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="365"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="365"/>
         <source>Centerline curve</source>
         <translation>منحنى خط الوسط</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="387"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="387"/>
         <source>Centerline properties:</source>
         <translation>خصائص الخط المركزي:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="405"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="405"/>
         <source>Centerline quantification</source>
         <translation>القياس الكمي للخط المركزي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="433"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="433"/>
         <source>Advanced</source>
         <translation>متقدمة</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="442"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="442"/>
         <source>Preprocess input surface:</source>
         <translation>سطح مدخل المعالجة المسبقة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="449"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="449"/>
         <source>Input surface model is reduced to the requested target point count (making computation faster), or subdivided (to make computations more accurate).</source>
         <translation>يتم تقليل نموذج سطح الإدخال إلى عدد النقاط المستهدفة المطلوب (مما يجعل الحساب أسرع)، أو يتم تقسيمه (لجعل الحسابات أكثر دقة).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="462"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="462"/>
         <source>Target point count:</source>
         <translation>عدد النقاط المستهدفة:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="472"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="472"/>
         <source>Preferred number of points in the preprocessed surface.</source>
         <translation>عدد النقاط المفضل في السطح المعالج مسبقًا.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="490"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="490"/>
         <source>k</source>
         <translation>k</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="497"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="497"/>
         <source>Decimation aggressiveness:</source>
         <translation>عدوانية التدمير:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="507"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="507"/>
         <source>Lower values preserve the mesh integrity better but it may not be possible to reduce number of points to the desired level.</source>
         <translation>تحافظ القيم المنخفضة على سلامة الشبكة بشكل أفضل ولكن قد لا يكون من الممكن تقليل عدد النقاط إلى المستوى المطلوب.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="529"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="529"/>
         <source>Subdivide:</source>
         <translation>تقسيم:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="539"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="539"/>
         <source>Subdivide the mesh to make computation more accurate (at the cost of increased computation time).</source>
         <translation>قم بتقسيم الشبكة لجعل الحساب أكثر دقة (على حساب زيادة وقت الحساب).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="549"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="549"/>
         <source>Output preprocessed surface:</source>
         <translation>مخرجات السطح المعالج مسبقا:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="559"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="559"/>
         <source>Save preprocessing result. Useful for quality checks and for making repeated computations faster: preprocessed surface can be used as input surface (and &quot;Preprocess input surface&quot; option can then be disabled).</source>
         <translation>إحفظ نتيجة المعالجة المسبقة. مفيد لفحص الجودة ولجعل الحسابات المتكررة أسرع: يمكن استخدام السطح المعالج مسبقًا كسطح إدخال (ويمكن بعد ذلك تعطيل خيار «سطح إدخال المعالجة المسبقة»).</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="570"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="570"/>
         <source>Preprocessed model</source>
         <translation>نموذج معالج مسبقا</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="592"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="592"/>
         <source>Mesh error check results:</source>
         <translation>نتائج فحص الخطأ الشبكي:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="599"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="599"/>
         <source>Output Voronoi diagram:</source>
         <translation>مخطط فورونوي للإخراج:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="606"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="606"/>
         <source>Voronoi diagram (similar to medial surface) that is used for computing centerline path between endpoints. It is useful for quality checks and for showing a model where endpoints can be robustly placed on.</source>
         <translation>رسم فورونوي (مشابه للسطح الإنسي) الذي يستخدم لحساب المسار المركزي بين نقاط النهاية. إنه مفيد لفحوصات الجودة ولإظهار نموذج يمكن فيه وضع نقاط النهاية بقوة.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="617"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="617"/>
         <source>Voronoi diagram</source>
         <translation>مخطط فورونوي</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="639"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="639"/>
         <source>Result of mesh error checks. Currently the only check is for presence of non-manifold edges.</source>
         <translation>نتيجة فحص الخطأ الشبكي. التأكد الوحيد حاليًا هو وجود حواف غير متعددة.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="650"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="650"/>
         <source>Mesh errors</source>
         <translation>أخطاء شبكية</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="672"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="672"/>
         <source>Curve sampling distance:</source>
         <translation>مسافة أخذ العينات المنحنية:</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="682"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="682"/>
         <source>length</source>
         <translation>طول</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="695"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="695"/>
         <source>Run the algorithm.</source>
         <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
         <location filename="ExtractCenterline/Resources/UI/ExtractCenterline.ui" line="698"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="698"/>
         <source>Apply</source>
         <translation>تطبيق</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="188"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="317"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="562"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="609"/>
         <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
+        <translation type="vanished">vtkMRMLModelNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="36"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation>vtkMRMLSegmentationNode</translation>
+        <translation type="vanished">vtkMRMLSegmentationNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="73"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="642"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRMLMarkupsFiducialNode</translation>
+        <translation type="vanished">vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="135"/>
         <source>vtkMRMLScriptedModuleNode</source>
-        <translation>vtkMRMLScriptedModuleNode</translation>
+        <translation type="vanished">vtkMRMLScriptedModuleNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="228"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="397"/>
         <source>vtkMRMLTableNode</source>
-        <translation>vtkMRMLTableNode</translation>
+        <translation type="vanished">vtkMRMLTableNode</translation>
     </message>
     <message>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="268"/>
-        <location filename="ExtractCenterline/Resources/UI/ExtractCenterline2.ui" line="357"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation>vtkMRMLMarkupsCurveNode</translation>
+        <translation type="vanished">vtkMRMLMarkupsCurveNode</translation>
     </message>
 </context>
 <context>
@@ -1706,38 +1683,42 @@ Slicer must be restarted. Do you want to restart now ?</source>
         <translation>فشل في حساب النتائج: </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="444"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="442"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="446"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="444"/>
         <source>Segment editor setup</source>
         <translation>إعداد محرر المقطع</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="589"/>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation>ملء الفيضانات: {duration} ثانية - </translation>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="578"/>
+        <source>Flood filling: {duration} seconds - </source>
+        <translation>ملء الفائض: {duration} ثانية - </translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="621"/>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="696"/>
+        <source>Flood filling : {duration} seconds - </source>
+        <translation type="vanished">ملء الفيضانات: {duration} ثانية - </translation>
+    </message>
+    <message>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="614"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="690"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="627"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="620"/>
         <source>Extract centerline setup</source>
         <translation>إعداد استخراج خط الوسط</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="723"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="718"/>
         <source>Starting the test</source>
         <translation>بدء الاختبار</translation>
     </message>
     <message>
-        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="725"/>
+        <location filename="GuidedArterySegmentation/GuidedArterySegmentation.py" line="720"/>
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
     </message>
@@ -1924,7 +1905,7 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="279"/>
         <source>Segment</source>
-        <translation type="unfinished">شريحة</translation>
+        <translation>جزء</translation>
     </message>
     <message>
         <location filename="GuidedVeinSegmentation/GuidedVeinSegmentation.py" line="370"/>
@@ -2202,28 +2183,32 @@ Slicer must be restarted. Do you want to restart now ?</source>
         <translation>فشل في حساب النتائج: </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="435"/>
         <source>Processing started</source>
         <translation>بدأت المعالجة</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="439"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="437"/>
         <source>Segment editor setup</source>
         <translation>إعداد محرر المقطع</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="518"/>
-        <source>Flood filling : {duration} seconds - </source>
-        <translation>ملء الفيضانات: {duration} ثانية - </translation>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="508"/>
+        <source>Flood filling: {duration} seconds - </source>
+        <translation>ملء الفائض: {duration} ثانية - </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="541"/>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="597"/>
+        <source>Flood filling : {duration} seconds - </source>
+        <translation type="vanished">ملء الفيضانات: {duration} ثانية - </translation>
+    </message>
+    <message>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="530"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="587"/>
         <source>Processing completed in {duration} seconds</source>
         <translation>اكتملت المعالجة في {duration} ثانية</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="547"/>
+        <location filename="QuickArterySegmentation/QuickArterySegmentation.py" line="536"/>
         <source>Extract centerline setup</source>
         <translation>استخراج إعداد خط الوسط</translation>
     </message>
@@ -2247,84 +2232,84 @@ The fiducial points are assumed to be on the contrasted lumen.</source>
         <translation>اختر عقدة اختيارية ذات أهمية. قد يؤدي هذا إلى تسريع التجزئة واستخراج خط الوسط. سيتم إخفاء المنطقة ذات الاهتمام بالقوة بعد الانتهاء.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="87"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
         <source>Set the bounds of the ROI accounting for that of the fiducial node. It must  further be manually adjusted to enclose the target region of interest.</source>
         <translation>قم بتعيين حدود منطقة الاهتمام مع مراعاة حدود العقدة المرجعية. يجب تعديلها يدويًا بشكل إضافي لتشمل منطقة الهدف المراد دراستها.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="93"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="99"/>
         <source>Pre-fit</source>
         <translation>مناسب مسبقًا</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="105"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="111"/>
         <source>ROI node:</source>
         <translation>منطقة اهتمام العقدة:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="115"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="121"/>
         <source>Fiducial node:</source>
         <translation>العقدة المرجعية:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="122"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="128"/>
         <source>Segmentation:</source>
         <translation>التجزئة:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="129"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="135"/>
         <source>Select an output segmentation</source>
         <translation>حدد تجزئة الإخراج</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="161"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="167"/>
         <source>Pick a slice view. The background volume node will be used. Please be careful to use the right volume node.</source>
         <translation>اختر شريحة عرض. سيتم استخدام عقدة حجم الخلفية. يرجى توخي الحذر لاستخدام عقدة الحجم الصحيحة.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="191"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="197"/>
         <source>Restore slice views with the referenced volume node</source>
         <translation>استعادة مناظر الشريحة مع عقدة الحجم المرجعية</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="194"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="200"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="203"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="209"/>
         <source>Slice node:</source>
         <translation>عقدة الشريحة:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="219"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="225"/>
         <source>Flood filling parameters</source>
         <translation>معلمات ملء الفيضانات</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="243"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="249"/>
         <source>Intensity tolerance:</source>
         <translation>التحمل الشديد:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="250"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="256"/>
         <source>Select connected voxels with intensity range between the one at a control point&apos;s position +/- this tolerance.</source>
         <translation>حدد فوكسل متصلة مع نطاق شدة بين واحد في موضع نقطة التحكم +/- هذا التحمل.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="275"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="281"/>
         <source>Neighbourhood size:</source>
         <translation>حجم الحي:</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="282"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="288"/>
         <source>Regions are added only if all voxels in the neighbourhood have similar intensities. Use higher values prevent leakage. Use lower values to allow capturing finer details.
 </source>
         <translation>تتم إضافة المناطق فقط إذا كانت جميع أجهزة فوكسل في الحي ذات كثافة مماثلة. استخدم قيم أعلى لمنع التسرب. استخدم قيم أقل للسماح بالتقاط التفاصيل الدقيقة.
 </translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="328"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="334"/>
         <source>Use &apos;Extract centerline&apos; module to generate a centerline model and a centerline curve.
 
 It is recommended to generate centerlines on accurate segmentations.</source>
@@ -2333,12 +2318,12 @@ It is recommended to generate centerlines on accurate segmentations.</source>
 يوصى بتوليد خطوط مركزية على التقسيمات الدقيقة.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="336"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="342"/>
         <source>Extract centerlines</source>
         <translation>استخراج الخطوط المركزية</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="355"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="361"/>
         <source>Create a segmentation and optionally a centerline model and a centerline curve.
 
 Output nodes from the last run will be removed.</source>
@@ -2347,7 +2332,7 @@ Output nodes from the last run will be removed.</source>
 سيتم إزالة عقد الإخراج من الجولة الأخيرة.</translation>
     </message>
     <message>
-        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="360"/>
+        <location filename="QuickArterySegmentation/Resources/UI/QuickArterySegmentation.ui" line="366"/>
         <source>Apply</source>
         <translation>تطبيق</translation>
     </message>
@@ -2375,38 +2360,38 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 </translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Cumulative</source>
         <translation>تراكمية</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Cumulative %</source>
         <translation>النسبة التراكمية</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Partial</source>
         <translation>جزئي</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="190"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="197"/>
         <source>Partial %</source>
         <translation>نسبة مئوية جزئية</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="276"/>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="290"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="275"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="289"/>
         <source>No curve.</source>
         <translation>لا يوجد منحنى.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="383"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="401"/>
         <source>Starting the test</source>
         <translation>بدء الاختبار</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="385"/>
+        <location filename="StenosisMeasurement1D/StenosisMeasurement1D.py" line="403"/>
         <source>Test passed</source>
         <translation>اجتاز الاختبار</translation>
     </message>
@@ -2483,10 +2468,17 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
         <source>Create a model for each cut segment.
 This allows to view the model from which the surface area is calculated.
 
-The result is influenced by :
+The result is influenced by:
  - holes in the segments
  - point placement, if &apos;Closest island&apos; option is selected,
  - smoothing level in the &apos;Segment editor&apos;.</source>
+        <oldsource>Create a model for each cut segment.
+This allows to view the model from which the surface area is calculated.
+
+The result is influenced by :
+ - holes in the segments
+ - point placement, if &apos;Closest island&apos; option is selected,
+ - smoothing level in the &apos;Segment editor&apos;.</oldsource>
         <translation>قم بإنشاء نموذج لكل قطعة مقطوعة.
 يسمح هذا بعرض النموذج الذي يتم حساب مساحة السطح منه.
 
@@ -2729,9 +2721,8 @@ Right click for more.</source>
         <translation type="vanished">شكل</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
         <source>Parameters</source>
-        <translation>معايير</translation>
+        <translation type="vanished">معايير</translation>
     </message>
     <message>
         <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="29"/>
@@ -2744,130 +2735,153 @@ Right click for more.</source>
         <translation>اختر نموذج خط الوسط المدخل.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
         <source>Segmentation:</source>
-        <translation>التجزئة:</translation>
+        <translation type="vanished">التجزئة:</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
         <source>Input segmentation.
 The input centerline is expected to be inside the lumen surface.</source>
-        <translation>تجزئة المدخلات.
+        <translation type="vanished">تجزئة المدخلات.
 من المتوقع أن يكون خط وسط الإدخال داخل سطح التجويف.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="106"/>
-        <source>Select an input segment in the selected segmentation.</source>
-        <translation>حدد جزء الإدخال في التجزئة المختارة.</translation>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="20"/>
+        <source>Inputs</source>
+        <translation>مدخلات</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="151"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="69"/>
+        <source>Tube tree:</source>
+        <translation>شجرة الأنبوب:</translation>
+    </message>
+    <message>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="78"/>
+        <source>Pick an input segmentation or model node.</source>
+        <translation>اختر تجزئة إدخال أو عقدة نموذج.</translation>
+    </message>
+    <message>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="109"/>
+        <source>Select an input segment.</source>
+        <oldsource>Select an input segment in the selected segmentation.</oldsource>
+        <translation>اختر جزء الإدخال.</translation>
+    </message>
+    <message>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
         <source>Create a segment for each branch.</source>
         <translation>قم بإنشاء جزء لكل فرع.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="154"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="157"/>
         <source>Create branch segments</source>
         <translation>قم بإنشاء أجزاء فرعية</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="170"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
         <source>Create a model of each bifurcation splitting line.</source>
         <translation>قم بإنشاء نموذج لكل خط تقسيم تشعب.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="173"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="176"/>
         <source>Create bifurcation profiles</source>
         <translation>قم بإنشاء ملفات تعريف التشعب</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="188"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
         <source>Run the algorithm.</source>
         <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="191"/>
+        <location filename="BranchClipper/Resources/UI/qSlicerBranchClipperModuleWidget.ui" line="194"/>
         <source>Apply</source>
         <translation>تطبيق</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="92"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="112"/>
         <source>No centerline selected.</source>
         <translation>لا يوجد خط مركزي محدد.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="101"/>
         <source>No segmentation selected.</source>
-        <translation>لم يتم اختيار التجزئة.</translation>
+        <translation type="vanished">لم يتم اختيار التجزئة.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="107"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="122"/>
+        <source>No surface selected.</source>
+        <translation>لم يتم اختيار أي سطح.</translation>
+    </message>
+    <message>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="128"/>
         <source>No output selected.</source>
         <translation>لم يتم اختيار أي ناتج.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="121"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="145"/>
         <source>Segmentation is NULL in MRML node, aborting</source>
         <translation>التجزئة باطلة في عقدة MRML، إحباط</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="132"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="156"/>
         <source>No segment selected.</source>
         <translation>لم يتم اختيار أي جزء.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="143"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="167"/>
         <source>Could not create closed surface representation.</source>
         <translation>لا يمكن إنشاء تمثيل سطح مغلق.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="152"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="183"/>
         <source>Unknown surface node</source>
         <translation>عقدة سطحية غير معروفة</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="162"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="193"/>
         <source>Splitting, please wait...</source>
         <oldsource>Debranching, please wait...</oldsource>
         <translation>تقسيم، يرجى الانتظار...</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="170"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="201"/>
         <source>Could not create a valid surface.</source>
         <translation>لا يمكن إنشاء سطح صالح.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="190"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="221"/>
         <source>No branches could be retrieved; the centerline may be invalid.</source>
         <translation>لا يمكن استرجاع أي فروع ؛ خط الوسط قد يكون غير صالح.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="198"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="230"/>
+        <source>Branches</source>
+        <translation>فروع</translation>
+    </message>
+    <message>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="236"/>
         <source>Processing branch </source>
         <translation>فرع المعالجة </translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="211"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="249"/>
         <source>Could not retrieve branch surface </source>
         <translation>تعذر استرداد سطح الفرع </translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="267"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="312"/>
         <source>Could not get a valid collection of bifurcation profiles.</source>
         <translation>لم يتمكن من الحصول على مجموعة صالحة من ملفات تعريف التشعب.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="276"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="320"/>
         <source>Could not get a valid subject hierarchy node.</source>
         <translation>لا يمكن الحصول على عقدة التسلسل الهرمي صالحة.</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="286"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="330"/>
         <source>Bifurcation profiles</source>
         <translation>ملامح التشعب</translation>
     </message>
     <message>
-        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="312"/>
+        <location filename="BranchClipper/qSlicerBranchClipperModuleWidget.cxx" line="354"/>
         <source>Finished</source>
         <translation>انتهى</translation>
     </message>
@@ -2941,69 +2955,69 @@ This should ideally exceed the wall surface a little, and must not be bifurcated
 يجب أن يتجاوز هذا سطح الجدار بشكل مثالي قليلاً، ويجب ألا يتشعب للحصول على نتائج دقيقة.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="308"/>
         <source>Run the algorithm.</source>
         <translation>تشغيل الخوارزمية.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="134"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="311"/>
         <source>Apply</source>
         <translation>تطبيق</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="144"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="131"/>
         <source>Result</source>
         <translation>نتيجة</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="152"/>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="235"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="139"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="222"/>
         <source>Wall:</source>
         <translation>الجدار:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="166"/>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="266"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="153"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="253"/>
         <source>Lumen:</source>
         <translation>ضوء:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="180"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="167"/>
         <source>Lesion:</source>
         <translation>آفة:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="194"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="181"/>
         <source>Stenosis:</source>
         <translation>التضيق:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="208"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="195"/>
         <source>Length:</source>
         <translation>الطول:</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="224"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="211"/>
         <source>Model</source>
         <translation>نموذج</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="242"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="229"/>
         <source>Show the wall between the boundary points as a model.</source>
         <translation>أظهر الجدار بين نقاط الحدود كنموذج.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="250"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="237"/>
         <source>Wall</source>
         <translation>جدار</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="273"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="260"/>
         <source>Show the lumen between the boundary points as a model.</source>
         <translation>أظهر التجويف بين نقاط الحدود كنموذج.</translation>
     </message>
     <message>
-        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="281"/>
+        <location filename="StenosisMeasurement3D/Resources/UI/qSlicerStenosisMeasurement3DModuleWidget.ui" line="268"/>
         <source>Lumen</source>
         <translation>اللمعة</translation>
     </message>

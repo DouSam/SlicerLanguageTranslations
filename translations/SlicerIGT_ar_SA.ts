@@ -123,7 +123,10 @@
 This module registers fiducial list to a model surface using iterative closest points (ICP) method.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+يقوم هذا الموديل بتسجيل قائمة المعالم إلى سطح النموذج باستخدام طريقة النقاط الأقرب المتكررة (ICP).
+للحصول على مساعدة حول كيفية استخدام هذا الموديل، قم بزيارة: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;موقع SlicerIGT&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="35"/>
@@ -139,17 +142,17 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="65"/>
         <source>Pick the input fiducial list for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر قائمة العلامات المرجعية المدخلة للخوارزمية.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="66"/>
         <source>Input fiducials: </source>
-        <translation type="unfinished"></translation>
+        <translation>مدخلات العلامات المرجعية: </translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="80"/>
         <source>Pick the input model for the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر نموذج الإدخال للخوارزمية.</translation>
     </message>
     <message>
         <location filename="FiducialsToModelRegistration/FiducialsToModelRegistration.py" line="81"/>
@@ -219,12 +222,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="18"/>
         <source>Guidelet</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل صغير</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="45"/>
         <source>Guidelet launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>مشغل الدليل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLoadable.py" line="74"/>
@@ -262,12 +265,12 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="197"/>
         <source>Show Guidelet in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الدليل في وضع ملء الشاشة</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="201"/>
         <source>Save Guidelet scene</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ مشهد الدليل</translation>
     </message>
     <message>
         <location filename="Guidelet/GuideletLib/Guidelet.py" line="216"/>
@@ -283,62 +286,62 @@ and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR0132
 <context>
     <name>GuideletLib.UltraSound</name>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="47"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="48"/>
         <source>Ultrasound</source>
         <translation>الموجات فوق الصوتية</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="57"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="58"/>
         <source>Start Recording</source>
         <translation>بدء تسجيل</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="60"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="61"/>
         <source>If clicked, start recording</source>
         <translation>إذا تم النقر عليه، ابدأ التسجيل</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="62"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="63"/>
         <source>Freeze</source>
         <translation>تجميد</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="74"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="75"/>
         <source>Brightness </source>
         <translation>سطوع </translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="84"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="85"/>
         <source>Normal</source>
         <translation>طبيعي</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="88"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="89"/>
         <source>Bright</source>
         <translation>ساطع</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="92"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="93"/>
         <source>Brighter</source>
         <translation>أكثر سطوعا</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="244"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="245"/>
         <source>  Stop Recording</source>
         <translation>  إيقاف التسجيل</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="246"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="247"/>
         <source>Recording is being started...</source>
         <translation>بدأ التسجيل...</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="260"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="261"/>
         <source>  Start Recording</source>
         <translation>  بدء تسجيل</translation>
     </message>
     <message>
-        <location filename="Guidelet/GuideletLib/UltraSound.py" line="262"/>
+        <location filename="Guidelet/GuideletLib/UltraSound.py" line="263"/>
         <source>Recording is being stopped...</source>
         <translation>يتم إيقاف التسجيل...</translation>
     </message>
@@ -393,7 +396,7 @@ This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="81"/>
         <source>Input moving (sparse) model: </source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإدخال المتحرك (النادر): </translation>
     </message>
     <message>
         <location filename="ModelRegistration/ModelRegistration.py" line="96"/>
@@ -571,21 +574,38 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation>عقدة نموذجية تحتوي على إحداثيات الهندسة والملمس.</translation>
     </message>
     <message>
+        <location filename="TextureModel/TextureModel.py" line="68"/>
+        <source>Model:</source>
+        <translation>نموذج:</translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="80"/>
+        <source>Color image containing texture image.</source>
+        <translation>صورة ملونة تحتوي على صورة نسيج.</translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="81"/>
+        <source>Texture:</source>
+        <translation>ملمس:</translation>
+    </message>
+    <message>
+        <location filename="TextureModel/TextureModel.py" line="84"/>
+        <source>disabled</source>
+        <translation>معاق</translation>
+    </message>
+    <message>
         <location filename="TextureModel/TextureModel.py" line="85"/>
         <source>RGB vector</source>
-        <comment>uchar-vector</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="86"/>
         <source>RGB float vector</source>
-        <comment>float-vector</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TextureModel/TextureModel.py" line="87"/>
         <source>RGB float components</source>
-        <comment>float-components</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -594,19 +614,22 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="TextureModel/TextureModel.py" line="92"/>
+        <source>Save color information as point data:</source>
+        <translation>احفظ معلومات اللون كبيانات نقاط:</translation>
+    </message>
+    <message>
         <location filename="TextureModel/TextureModel.py" line="99"/>
         <source>Apply texture to selected model.</source>
         <translation>طبق الملمس على نموذج مختار.</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="298"/>
         <source>Finished with download and loading</source>
-        <translation>انتهى بالتنزيل والتحميل</translation>
+        <translation type="vanished">انتهى بالتنزيل والتحميل</translation>
     </message>
     <message>
-        <location filename="TextureModel/TextureModel.py" line="305"/>
         <source>Test passed!</source>
-        <translation>اجتاز الاختبار!</translation>
+        <translation type="vanished">اجتاز الاختبار!</translation>
     </message>
 </context>
 <context>
@@ -629,7 +652,10 @@ For more information, visit &lt;a href=&apos;https://github.com/SlicerIGT/Slicer
 Bullseye View: position/orient the camera using a tracked tool.
 For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;SlicerIGT website&lt;/a&gt;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تقوم هذه الوحدة بضبط وجهة نظر الكاميرا لمعرض ثلاثي الأبعاد.
+عرض الهدف: تحديد موضع/توجيه الكاميرا باستخدام أداة متتبعة.
+للحصول على مساعدة حول كيفية استخدام هذا الموديل، يرجى زيارة: &lt;a href=&apos;https://www.slicerigt.org&apos;&gt;موقع SlicerIGT&lt;/a&gt;.
+</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="25"/>
@@ -643,12 +669,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="65"/>
         <source>Enable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل وضع عرض الهدف</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="68"/>
         <source>Disable Bullseye View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل وضع عرض الهدف</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="94"/>
@@ -683,7 +709,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="129"/>
         <source>Camera positioning transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل وضع الكاميرا: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="136"/>
@@ -693,12 +719,12 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="142"/>
         <source>Camera Control</source>
-        <translation type="unfinished"></translation>
+        <translation>التحكم في الكاميرا</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="150"/>
         <source>Degrees of Freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>درجات الحرية</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="159"/>
@@ -713,7 +739,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="165"/>
         <source>The camera will always be oriented with the selected &apos;up direction&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم توجيه الكاميرا دائمًا باستخدام &apos;الاتجاه العلوي&apos; المحدد</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="169"/>
@@ -723,32 +749,32 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="171"/>
         <source>The camera will be virtually attached to the tool, and rotate together with it</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم توصيل الكاميرا بالأداة تقريبًا وتدويرها معها</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="178"/>
         <source>Up Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>الاتجاه العلوي</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="186"/>
         <source>Anterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>أمامي: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="192"/>
         <source>Posterior: </source>
-        <translation type="unfinished"></translation>
+        <translation>خلفي: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="197"/>
         <source>Right: </source>
-        <translation type="unfinished"></translation>
+        <translation>اليمين: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="202"/>
         <source>Left: </source>
-        <translation type="unfinished"></translation>
+        <translation>اليسار: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="207"/>
@@ -758,17 +784,17 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="212"/>
         <source>Inferior: </source>
-        <translation type="unfinished"></translation>
+        <translation>أدنى: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="219"/>
         <source>Target Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الهدف</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="228"/>
         <source>Target model: </source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الهدف: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="234"/>
@@ -783,53 +809,53 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="247"/>
         <source>View angle (degrees): </source>
-        <translation type="unfinished"></translation>
+        <translation>زاوية الرؤية (درجات): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="254"/>
         <location filename="Viewpoint/Viewpoint.py" line="267"/>
         <source>Make the current viewing target look larger/smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>اجعل الهدف الحالي للمشاهدة يبدو أكبر/أصغر.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="259"/>
         <source>View scale: </source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس العرض: </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="274"/>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>ترجمة</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="281"/>
         <source>Left/Right (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>اليسار/اليمين (مم): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="290"/>
         <source>Down/Up (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>الأسفل/الأعلى (مم): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="300"/>
         <source>Front/Back (mm): </source>
-        <translation type="unfinished"></translation>
+        <translation>الأمام/الخلف (مم): </translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="311"/>
         <source>Parallel Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>الإسقاط المتوازي</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="314"/>
         <source>If checked, render with parallel projection (box-shaped view). Otherwise render with perspective projection (cone-shaped view).</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم التحقق، يتم العرض مع عرض متوازي (عرض على شكل صندوق). خلاف ذلك، يتم العرض مع عرض منظور (عرض على شكل مخروط).</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="319"/>
         <source>The camera will continuously update its position so that it follows the tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>ستقوم الكاميرا بتحديث موقعها باستمرار بحيث تتبع الأداة.</translation>
     </message>
     <message>
         <location filename="Viewpoint/Viewpoint.py" line="328"/>
@@ -1254,6 +1280,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="BreachWarning/qSlicerBreachWarningModule.h" line="50"/>
+        <source>Breach Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCLIModuleWidget</name>
@@ -1450,6 +1481,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="CollectPoints/qSlicerCollectPointsModule.h" line="44"/>
+        <source>Collect Points</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCollectPointsModuleWidget</name>
@@ -1612,6 +1648,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="CreateModels/qSlicerCreateModelsModule.h" line="44"/>
+        <source>Create Models</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCropVolumeModuleWidget</name>
@@ -1763,6 +1804,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
     </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModule.h" line="49"/>
+        <source>Fiducial Registration Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerFiducialRegistrationWizardModuleWidget</name>
@@ -1805,7 +1851,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/qSlicerFiducialRegistrationWizardModuleWidget.cxx" line="449"/>
         <source>Status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الحالة: %1</translation>
     </message>
 </context>
 <context>
@@ -1832,6 +1878,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.cxx" line="68"/>
         <source>This module was developed through support from CANARIE&apos;s Research Software Program, Cancer Care Ontario, OpenAnatomy, and Brigham and Women&apos;s Hospital through NIH grant R01MH112748.</source>
         <translation>تم تطوير هذه الوحدة من خلال دعم برنامج الأبحاث التابع لـ CANARIE، و Cancer Care Ontario، و OpenAnatomy، و Brigham and Women&apos;s Hospital من خلال R01MH112748 منح المعاهد الوطنية للصحة.</translation>
+    </message>
+    <message>
+        <location filename="LandmarkDetection/qSlicerLandmarkDetectionModule.h" line="46"/>
+        <source>Landmark Detection</source>
+        <translation>كشف المعالم</translation>
     </message>
 </context>
 <context>
@@ -2000,6 +2051,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PathExplorer/qSlicerPathExplorerModule.cxx" line="79"/>
         <source>It is supported by grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</source>
         <translation>وهي مدعومة بمنح 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377,5R42CA137886, 8P41EB015898</translation>
+    </message>
+    <message>
+        <location filename="PathExplorer/qSlicerPathExplorerModule.h" line="45"/>
+        <source>Path Explorer</source>
+        <translation>مستكشف المسار</translation>
     </message>
 </context>
 <context>
@@ -2422,6 +2478,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="PivotCalibration/qSlicerPivotCalibrationModule.cxx" line="85"/>
         <source>Tamas Ungi (Queen&apos;s University)</source>
         <translation>Tamas Ungi (جامعة كوينز)</translation>
+    </message>
+    <message>
+        <location filename="PivotCalibration/qSlicerPivotCalibrationModule.h" line="44"/>
+        <source>Pivot Calibration</source>
+        <translation>معايرة المحور</translation>
     </message>
 </context>
 <context>
@@ -2971,6 +3032,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was partially funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO), and by National Institute of Health (grants 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</source>
         <translation>تم تمويل هذا العمل جزئيًا من قبل رعاية السرطان في أونتاريو واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)، ومن قبل المعهد الوطني للصحة (المنح 5P01CA067165, 5R01CA124377, 5R01CA138586, 2R44DE019322, 7R01CA124377, 5R42CA137886, 8P41EB015898).</translation>
     </message>
+    <message>
+        <location filename="TransformProcessor/qSlicerTransformProcessorModule.h" line="48"/>
+        <source>Transform Processor</source>
+        <translation>حوّل المعالج</translation>
+    </message>
 </context>
 <context>
     <name>qSlicerTransformProcessorModuleWidget</name>
@@ -2982,7 +3048,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="99"/>
         <source>Compute a copy of the rotation from the Source to the Reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>احسب نسخة من التناوب من المصدر إلى المرجع.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="101"/>
@@ -3002,7 +3068,7 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="107"/>
         <source>Compute a constrained version of an Source transform, the translation and z direction are preserved but the other axes resemble the Target coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">قم بحساب نسخة مقيدة من تحويل المصدر، يتم الحفاظ على الترجمة واتجاه z ولكن المحاور الأخرى تشبه نظام إحداثيات Target.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="109"/>
@@ -3092,6 +3158,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.cxx" line="75"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation>تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
+    </message>
+    <message>
+        <location filename="UltrasoundSnapshots/qSlicerUltrasoundSnapshotsModule.h" line="44"/>
+        <source>Ultrasound Snapshots</source>
+        <translation>لقطات بالموجات فوق الصوتية</translation>
     </message>
 </context>
 <context>
@@ -3419,6 +3490,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>Sequences</source>
         <translation>تسلسلات</translation>
     </message>
+    <message>
+        <location filename="VolumeReconstruction/qSlicerVolumeReconstructionModule.h" line="49"/>
+        <source>Volume Reconstruction</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumeReconstructionModuleWidget</name>
@@ -3541,6 +3617,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <source>This work was supported by NIH National Center for Image Guided Therapy, and National Alliance for Medical Image Computing.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="VolumeResliceDriver/qSlicerVolumeResliceDriverModule.h" line="44"/>
+        <source>Volume Reslice Driver</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerVolumesModuleWidget</name>
@@ -3560,6 +3641,11 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
         <location filename="Watchdog/qSlicerWatchdogModule.cxx" line="126"/>
         <source>This work was was funded by Cancer Care Ontario and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)</source>
         <translation type="unfinished">تم تمويل هذا العمل من قبل Cancer Care Ontario واتحاد أونتاريو للتدخلات التكيفية في علم الأورام الإشعاعي (OCAIRO)</translation>
+    </message>
+    <message>
+        <location filename="Watchdog/qSlicerWatchdogModule.h" line="48"/>
+        <source>Watchdog</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3720,6 +3806,95 @@ For help on how to use this module visit: &lt;a href=&apos;https://www.slicerigt
     <message>
         <location filename="FiducialRegistrationWizard/MRML/vtkMRMLFiducialRegistrationWizardNode.cxx" line="395"/>
         <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vtkSlicerFiducialRegistrationWizardLogic</name>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="223"/>
+        <source>&apos;From&apos; fiducial list is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="230"/>
+        <source>&apos;To&apos; fiducial list is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="237"/>
+        <source>Output transform is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="243"/>
+        <source>&apos;From&apos; fiducial list has too few fiducials (minimum 3 required).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="248"/>
+        <source>&apos;To&apos; fiducial list has too few fiducials (minimum 3 required).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="269"/>
+        <source>Fiducial lists have unequal number of fiducials (&apos;From&apos; has %1, &apos;To&apos; has %2). Either adjust the lists, or use automatic point matching. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="286"/>
+        <source>Automatic point matching is currently supported only for rigid registration. Currently %1 registration is being used. Unexpected results may occur.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="298"/>
+        <source>Too many points to compute point pairing %1. To avoid long computation time, there should be at most %2 points. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="316"/>
+        <source>Could not find a good mapping. Mean squared distance error was %1, but tolerance is %2. Results are not expected to be accurate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="326"/>
+        <source>The &apos;best&apos; point matching is reported as ambiguous and may be incorrect. This could happen because the point geometry is symmetric. Results are not necessarily expected to be accurate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="337"/>
+        <source>Unrecognized point matching method: %1. Aborting registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="347"/>
+        <source>&apos;From&apos; fiducial list has strictly collinear or singular points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="354"/>
+        <source>&apos;To&apos; fiducial list has strictly collinear or singular points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="400"/>
+        <source>Warping transform cannot be stored
+in linear transform node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="452"/>
+        <source>Invalid transform type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="460"/>
+        <source>Failed to retreive transform from node. RMS Error could not be evaluated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FiducialRegistrationWizard/Logic/vtkSlicerFiducialRegistrationWizardLogic.cxx" line="466"/>
+        <source>Registration Complete. RMS Error: %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
